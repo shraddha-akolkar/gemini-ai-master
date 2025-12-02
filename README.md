@@ -59,16 +59,10 @@ Chat history
 Active chat
 
 📡 How It Works
-1️⃣ User enters a message
-
-→ Stored globally via Context API
-
+1️⃣ User enters a message → Stored globally via Context API
 2️⃣ Auto-generated mock response is added
-3️⃣ Full chat saved to LocalStorage
-
-→ Sidebar updates with chat titles
-
-4️⃣ User can switch between old conversations
+3️⃣ Full chat saved to LocalStorage → Sidebar updates with chat titles
+4️⃣ User can switch between old conversations 
 5️⃣ App UI stays fully synced across components
 
 ⭐ If you like this project Feel free to star this repository. It motivates me to build more projects!
